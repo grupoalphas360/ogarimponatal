@@ -1,0 +1,34 @@
+#: locale=pt
+
+## Tour
+
+### Description
+tour.description = @natalepronto @grupoalphas
+
+### Title
+tour.name = O Garimpo - Decoração de Natal - @natalepronto
+
+## Skin
+
+### Button
+Button_FC33948D_E04B_5FE8_41EA_A7BDE44A9B59.label = BAIXE O CATÁLOGO EM PDF
+Button_FC33948D_E04B_5FE8_41EA_A7BDE44A9B59_mobile.label = BAIXE O CATÁLOGO EM PDF
+
+### Tooltip
+IconButton_138AC8EB_1C81_A718_41B9_C0E861AF42F4.toolTip = Fullscreen
+IconButton_138AC8EB_1C81_A718_41B9_C0E861AF42F4_mobile.toolTip = Fullscreen
+
+## Media
+
+### Title
+panorama_C34AEF2B_E05B_492F_41E8_A7F125AE895D.label = 7
+panorama_C3995FEF_E058_C927_41D0_A9D9CBDA03C9.label = 1
+panorama_C4AFE513_E059_5EF8_41E4_E4C2D5C06EF0.label = 6
+panorama_EBC8B5FB_E0FF_5928_41E5_1B31E4E5DA39.label = 8
+panorama_EBC8E90C_E0FF_76E9_41B6_D505978A6F9D.label = 10
+panorama_EBC91FAC_E0FF_4928_41C9_5F9E43214915.label = 9
+panorama_EBCA9377_E0FF_5927_41EA_DF6BF283FB19.label = 11
+panorama_EBCE4663_E0F8_FB5F_41BB_4CC9C48DE7D1.label = 2
+panorama_EBCF4986_E0F8_C9D9_41BE_4AC8F036D8E2.label = 5
+panorama_EBCF6FE4_E0F8_C959_41DC_0E57027C8FA5.label = 3
+panorama_EEC2B87B_E0FB_3728_41CC_961A56010F02.label = Fachada Garimpo
